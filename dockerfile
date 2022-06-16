@@ -1,5 +1,5 @@
-# Import Ubuntu 20.04 Image
-FROM ubuntu:20.04
+# Import Ubuntu 18.04 Image
+FROM ubuntu:18.04
 
 # ENV
 ENV DEBIAN_FRONTEND noninteractive
